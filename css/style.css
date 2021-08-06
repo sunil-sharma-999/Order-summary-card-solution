@@ -158,5 +158,11 @@ body .card .billing-wrap .cancel:hover {
     width: auto;
     max-width: 400px;
   }
+  body .card .billing-wrap .pricing {
+    width: 280px;
+  }
+  body .card .billing-wrap .pricing .plan-wrap {
+    margin-left: -4rem;
+  }
 }
 /*# sourceMappingURL=style.css.map */
