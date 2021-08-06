@@ -25,7 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img src="./screenshots/mobile.png" width=20%>
+<img src="./screenshots/desktop.png" width='60.5%'>
 
 ## My process
 
