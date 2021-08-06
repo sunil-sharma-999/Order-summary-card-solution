@@ -150,7 +150,7 @@ body .card .billing-wrap .cancel:hover {
   cursor: pointer;
 }
 
-@media (min-width: 800px) {
+@media screen and (min-width: 800px) {
   body {
     background: #e0e8ff url(../images/pattern-background-desktop.svg) no-repeat;
     background-size: contain;
