@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="./screenshots/mobile.png" width=20%>
-<img src="./screenshots/desktop.png" width='60.5%'>
+<img src="./screenshots/mobile.png">
+<img src="./screenshots/desktop.png">
 
 ## My process
 
