@@ -153,7 +153,7 @@ body .card .billing-wrap .cancel:hover {
 @media (min-width: 800px) {
   body {
     background: #e0e8ff url(../images/pattern-background-desktop.svg) no-repeat;
-   background-size: cover;
+    background-size: contain;
   }
   body .card {
     width: auto;
