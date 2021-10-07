@@ -39,6 +39,4 @@ Users should be able to:
 
 ## Author
 
-- GitHub - [Sunil Sharma](https://github.com/sunil-sharma-999/)
-- Frontend Mentor - [@sunil-sharma-999](https://www.frontendmentor.io/profile/sunil-sharma-999)
-- Twitter - [@yourusername](https://www.twitter.com/sharmasunil999)
+- Linktree - [Sunil Sharma](https://linktr.ee/Sunil.sharma.9)
